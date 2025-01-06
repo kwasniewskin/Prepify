@@ -1,0 +1,10 @@
+{
+    "pancakes": {
+        "ingredients": ["flour", "milk", "eggs"],
+        "steps": ["Mix ingredients", "Cook on a pan"]
+    },
+    "salad": {
+        "ingredients": ["lettuce", "tomato", "cucumber"],
+        "steps": ["Chop ingredients", "Mix"]
+    }
+}
